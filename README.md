@@ -1,0 +1,2 @@
+# Verktygsuppgift
+I den här övningen testar jag att jobba me de olika verktygen en utvecklare jämt använder. Målet är att komma igång med terminalen för att styra filsystemet, skriva och dokumentera i VS Code, samt att lära mig grunderna i Git och Github för att senare spara och ladda upp koden. Avslutningsvis så kommer jag att dubbellkolla instruktionerna som getts ut för att säkra mig på att jag gjort rätt.

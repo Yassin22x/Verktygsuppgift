@@ -3,3 +3,4 @@ ls - För att bekräfta att mina filer och mappar skapades, och att se vad som f
 cd - Använde jag för att förflytta mig mellan mapparna, så exempelvis cd MAI26. Jag skrev cd på terminal för att gå tillbaks. 
 mkdir - Använde för att skapa projektmappen "verktygsuppgift".
 touch - Skapade en ny tom fil, såsom textfilen "mina-bash-kommandon.txt" i projektmappen.
+clear - När jag kände att det blev för mycket så använde jag mig av clear för att rensa chatt historiken.

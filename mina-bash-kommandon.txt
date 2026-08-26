@@ -1,0 +1,5 @@
+pwd - Jag använde det för att kontrollera var jag befann mig i filsystemet, samt att jag inte skapade mappar på fel ställen.
+ls - För att bekräfta att mina filer och mappar skapades, och att se vad som fanns i mappen.
+cd - Använde jag för att förflytta mig mellan mapparna, så exempelvis cd MAI26. Jag skrev cd på terminal för att gå tillbaks. 
+mkdir - Använde för att skapa projektmappen "verktygsuppgift".
+touch - Skapade en ny tom fil, såsom textfilen "mina-bash-kommandon.txt" i projektmappen.
